@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tere</h1>
 <h3 align="center">Full-Stack Developer from Colombia</h3>
 
-<p align="center">I specialize in web development using technologies such as React, Node.js, and SQL. On this page, you'll find some of my latest projects, which showcase my skills and experience in the field. I'm always eager to learn and collaborate with others, so feel free to reach out to me with any questions or opportunities. Let's build something amazing together</p>
+<p align="center">I am a passionate Full-Stack developer with experience in various technologies, including HTML, CSS, JavaScript, React, Node.js, PostgreSQL among others. I like to be constantly learning and working as a team to create innovative and interactive web applications. In my profile you will find some of my most recent projects, which demonstrate my skills.
+If you are looking for a talented, creative and versatile developer to add to your team, do not hesitate to consider me. I would love to work with you to create innovative and quality solutions. I am available at any time to discuss how I can contribute to your projects and business goals. Let's talk soon and start building something great together!</p>
 
 - 🔭 I’m currently working on [my final project at Henry](https://github.com/sergioare/CodeAdvisor)
 
