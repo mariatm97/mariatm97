@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tere</h1>
 <h3 align="center">✨Full-Stack Developer from Colombia✨</h3>
 
-<p align="center">As an accomplished Full-Stack Developer, I bring a wealth of expertise in a wide range of technologies, including HTML, CSS, JavaScript, React, Node.js, PostgreSQL, and more. My passion for staying abreast of emerging trends and best practices fuels my desire to continuously learn and work collaboratively with teams to create cutting-edge, user-centric web applications.
-
-My portfolio showcases my recent projects, which highlight my exceptional skills in design, development, and implementation. From conception to delivery, I take pride in delivering quality solutions that exceed expectations and drive business growth.
-
-As a versatile and creative problem-solver, I thrive in dynamic, fast-paced environments where I can apply my technical expertise to solve complex challenges. My excellent communication skills and ability to work seamlessly with cross-functional teams make me an invaluable asset to any organization.
+<p align="center">As an accomplished Full-Stack Developer, I bring a wealth of expertise in a wide range of technologies, including HTML, CSS, JavaScript, React, Node.js, PostgreSQL, and more. My passion for staying abreast of emerging trends and best practices fuels my desire to continuously learn and work collaboratively with teams to create cutting-edge, user-centric web applications. My portfolio showcases my recent projects, which highlight my exceptional skills in design, development, and implementation. From conception to delivery, I take pride in delivering quality solutions that exceed expectations and drive business growth.As a versatile and creative problem-solver, I thrive in dynamic, fast-paced environments where I can apply my technical expertise to solve complex challenges. My excellent communication skills and ability to work seamlessly with cross-functional teams make me an invaluable asset to any organization.
 
 If you are seeking a top-notch Full-Stack Developer who can deliver exceptional results, I would be thrilled to collaborate with you on your next project. Please do not hesitate to reach out to discuss how I can contribute to your team and help achieve your business goals. I look forward to hearing from you and exploring how we can build something great together.</p>
 
