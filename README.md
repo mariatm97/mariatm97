@@ -9,10 +9,6 @@ As a versatile and creative problem-solver, I thrive in dynamic, fast-paced envi
 
 If you are seeking a top-notch Full-Stack Developer who can deliver exceptional results, I would be thrilled to collaborate with you on your next project. Please do not hesitate to reach out to discuss how I can contribute to your team and help achieve your business goals. I look forward to hearing from you and exploring how we can build something great together./p>
 
-- 🔭 I’m currently working on [my final project at Henry](https://github.com/sergioare/CodeAdvisor)
-
-- 🌱 I’m currently learning **TailwindCSS, Typescript**
-
 - 📫 How to reach me **mtmd027@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
